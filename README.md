@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StayAIive
 - 👀 I’m interested in coding, anime, games and drawing
-- 🌱 I’m currently learning c++, html, possibly c# in the future
+- 🌱 I’m currently learning c++, html, javascript,possibly c# in the future
 - 😐 Currently trying to understand how everything works
 - 🥳 Hope you have a good day, Stay Alive!!!
